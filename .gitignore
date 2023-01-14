@@ -1,0 +1,13 @@
+/models/polarityclassifier.pkl
+/models/sentimenticlassifier.pkl
+/evaluation/test/plots
+/data/preprocessed/prepared.csv
+/data/raw/text_emotion.csv
+/data/features/train.pkl
+/data/features/test.pkl
+
+# Scope data
+/data/raw/raw_scope.csv
+/data/preprocessed/scope_preocessed.csv
+/data/features/scope_features.csv
+/data/features/scope_features.pkl

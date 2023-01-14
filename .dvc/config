@@ -1,0 +1,12 @@
+[core]
+    remote = mystorage4
+['remote "storage"']
+    url = gdrive://srh/1qr-DUpR9ISY71XjIsoewR1yMIbpZIPx3
+['remote "storage1"']
+    url = gdrive://1qr-DUpR9ISY71XjIsoewR1yMIbpZIPx3
+['remote "mystorage2"']
+    url = gdrive://1x7iSn3y05WwE-fTLIp9h46CYZCdaO3n-
+['remote "mystorage3"']
+    url = gdrive://1x7iSn3y05WwE-fTLIp9h46CYZCdaO3n-
+['remote "mystorage4"']
+    url = gdrive://mydvc/1x7iSn3y05WwE-fTLIp9h46CYZCdaO3n-
